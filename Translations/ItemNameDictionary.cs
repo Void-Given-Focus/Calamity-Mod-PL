@@ -6,10 +6,6 @@ namespace CalamityPL
     {
         public Dictionary<string, string> ItemName { get; } = new Dictionary<string, string>()
         {
-            /* 
-                Szybki tutorial tłumaczenia dla nietechnicznych:
-                        { "ID", "Tłumaczenie" }, 
-            */
             {"Abaddon", "Odpust"},
             {"AbyssalAmulet", "Głębinowy Amulet"},
             {"AbyssalDivingGear", "Zestaw Głębinowego Nurka"},
