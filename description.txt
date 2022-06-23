@@ -1,0 +1,122 @@
+Polskie tłumaczenie Calamity Moda
+
+Na wstępie chciałbym podziękować:
+Fabsolowi za pozwolenie na wykonanie tłumaczenia,
+Skyshadowowi, twórcy hiszpańskiego tłumaczenia za pomoc z rozpoczęciem prac,
+Uncle Danny'emu, administratorowi serwera Calamity Mod na discordzie za pomoc i możliwość pośredniego kontaktu z Fabsolem,
+Wszystkim osobom które wyraziły chęć pomocy w tłumaczeniu Calamity, a na ten moment są to:
+Alvaro De Blanco
+HybridDeath
+GlowMana
+MKBadDill
+SzymiSzim
+Gaferex
+
+a także całej polskiej społeczności Terrarii za używanie mojego tłumaczenia i czekanie tyle czasu.
+
+Po ponad roku przerwy wróciłem do tworzenia tłumaczenia. Z góry przepraszam wszystkich zainteresowanych graniem w Calamity Moda po polsku którzy musieli tyle czasu czekać, aż pokonam swoje lenistwo.
+
+Podjąłem decyzje, by zączać pisanie moda od początku, więc zajmie to trochę czasu, jednak dzisiaj przychodzę do was z modem, oferującym szczątkowe tłumaczenie Calamity Moda.
+(W obecnym momencie tłumaczymy tylko rzeczy, których na 90% nie będzie obejmować następna wielka aktualizacja Calamity, by ominąć konieczność przepisywania ponad połowy linijek tekstu, przez zmiany w statystykach itp.)
+
+Tłumaczenie obejmować będzie całego moda, od NPC i bossów, przez itemy, aż po buffy i debuffy.
+Jeśli znalazłeś błąd lub chcesz pomóc w tłumaczeniu napisz do mnie na Discordzie: Kamelowy#2307
+
+Miłej gry!
+__________________________
+
+CO OBEJMUJE OBECNIE TŁUMACZENIE?
+Dowiesz się poniżej!
+__________________________
+
+Changelog:
+
+v.2.0.0
+Z okazji ponad 20 000 pobrań tłumaczenia nadchodzi wersja 2.0!
+Zmian jest sporo, a to najważniejsze z nich:
+
+1. Udostępnienie kodu w formie Open Source na GitHubie!
+Teraz każdy może dodać swoje tłumaczenia albo optymalizacje kodu.
+Jeśli jesteś zainteresowany - zapraszam tutaj: https://github.com/v-kamelowy/Calamity-Mod-PL
+(A dla zainteresowanych tłumaczeniem jakiegokolwiek innego moda, możesz użyć mojego kodu i zmodyfikować go do swoich potrzeb, bo jak sama nazwa wskazuje, jest całkowicie otwarty.)
+
+2. Rozdzielenie tłumaczeń do osobnych plików
+W skrócie: tłumaczenia przechowywałem w jednym pliku, co sprawiało, że przez kilkaset linijek ciągnęła się praktycznie ta sama formułka.
+Jak widzisz - niezbyt dobre rozwiązanie, dlatego też rozdzieliłem wszystkie tłumaczenia w osobne klasy i pliki, co usprawni tłumaczenie, a raczej sam jego proces.
+
+3. Tłumaczenie wreszcie działa na nowej wersji Calamity!
+Po X miesiącach mojego lenistwa - tłumaczenie wreszcie działa z nową wersją Calamity Moda.
+
+4. Nowe tłumaczenia i poprawa starych
+Nowa wersja Calamity przyniosła dużo (bardzo dużo) zmian, przez co większość poprzednich tłumaczeń musiałem zmienić zgodnie z nowymi statystykami itemów (i tak dalej).
+Przy okazji dodałem sporo nowych tłumaczeń, już zgodnych z nowymi wartościami przedmiotów.
+
+5. Aktualizacja ikony
+Zaktualizowałem ikonę moda do "standardu" jaki wprowadziło Calamity razem z wyjściem Draedon Update.
+(...i znowu jest outdated, zmienili ramkę przy wyjściu wersji na tModLoadera 1.4 XD)
+
+W razie problemów, błędów czy pytań - zapraszam na Discorda plModLoader https://discord.gg/yH7nGMhrSu lub do sekcji bugów na GitHubie https://github.com/v-kamelowy/Calamity-Mod-PL/issues.
+Miłej gry ~ Kamelowy
+
+v.1.3.6
+- Poprawa wielu tłumaczeń
+- Poprawki literówek
+- Kilkanaście nowych tłumaczeń
+- Poprawki tooltipów
+
+v.1.3.5
+- Ponad 70 Tooltipów
+- Eutroficzne Meble
+- Kosmilitowe Meble
+- Botaniczne Meble
+- Poprawa kilku tłumaczeń
+
+v.1.3.3
+- Masa nowych przedmiotów
+- Poprawki starszych tłumaczeń (Dzięki HybridDeath!)
+
+v.1.3.2
+- Ponad 100 przedmiotów
+
+v. 1.3.1
+- Aktualizacja opisu tłumaczenia
+
+v. 1.3.0
+- Pełna optymalizacja kodu tłumaczenia
+- Linijki kodu: 1441 => 581
+- Waga kodu: 116 KB => 38 KB
+
+v. 1.2.6
+- Meble
+
+v. 1.2.5
+- Ściany
+- Buffy/Debuffy (33%)
+
+v. 1.2.4
+- Bloki
+
+v. 1.2.3
+- Lekkie poprawki
+
+v. 1.2.2
+- Lekkie poprawki
+
+v. 1.2.1
+- Lekkie poprawki
+
+v. 1.2
+- Wszystkie barwniki
+- Wszystkie farby do włosów
+- Wszystkie rudy
+- Wszystkie materiały (sztabki, drewno etc.)
+
+v. 1.1
+- Większość NPC/Bossów Pre-Hardmode
+- Wszystkie akcesoria zaczynające się na literę "A"
+
+__________________________
+
+
+Discord:
+discord.com/invite/yH7nGMhrSu

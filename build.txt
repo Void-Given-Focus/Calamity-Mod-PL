@@ -1,0 +1,5 @@
+displayName = Calamity Polish Translation
+author = Kamelowy
+version = 2.0.0
+modReferences = CalamityMod
+homepage = https://github.com/v-kamelowy/Calamity-Mod-PL
