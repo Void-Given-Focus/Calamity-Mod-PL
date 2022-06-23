@@ -40,19 +40,12 @@ namespace CalamityPL
                 {
                     Calamity.Find<ModItem>(itemName.Key).DisplayName.AddTranslation(9, itemName.Value);
                 }
-                /*
+                
                 //ItemToopTip Dictionary Loading:
-                try
+                foreach (var itemTooltip in itemTooltipDictionary.ItemToolTip)
                 {
-                    foreach (var itemTooltip in itemTooltipDictionary.ItemToolTip)
-                    {
-                        Calamity.GetItem(itemTooltip.Key).Tooltip.AddTranslation(GameCulture.CultureName.Polish, itemTooltip.Value);
-                    }
-                } catch (Exception e)
-                {
-                    Logger.Error("CalamityPL-ItemTooltipError: " + e.ToString());
+                    Calamity.Find<ModItem>(itemTooltip.Key).Tooltip.AddTranslation(9, itemTooltip.Value);
                 }
-                */
                 /*
                     ╔════════════════════════════════╗
                     ║ +-+ | Effect Translation | +-+ ║
@@ -60,47 +53,27 @@ namespace CalamityPL
                 */
 
                 //EffectName Dictionary Loading:
-                /*
-                try
+                foreach (var effectName in effectNameDictionary.EffectName)
                 {
-                    foreach (var effectName in effectNameDictionary.EffectName)
-                    {
-                        Calamity.GetBuff(effectName.Key).DisplayName.AddTranslation(GameCulture.CultureName.Polish, effectName.Value);
-                    }
-                } catch (Exception e)
-                {
-                    Logger.Error("CalamityPL-EffectNameError: " + e.ToString());
+                    Calamity.Find<ModBuff>(effectName.Key).DisplayName.AddTranslation(9, effectName.Value);
                 }
 
                 //EffectName Dictionary Loading:
-                try
+                foreach (var effectDescription in effectDescriptionDictionary.EffectDescription)
                 {
-                    foreach (var effectDescription in effectDescriptionDictionary.EffectDescription)
-                    {
-                        Calamity.GetBuff(effectDescription.Key).Description.AddTranslation(GameCulture.CultureName.Polish, effectDescription.Value);
-                    }
-                } catch (Exception e)
-                {
-                    Logger.Error("CalamityPL-EffectDescriptionError: " + e.ToString());
+                    Calamity.Find<ModBuff>(effectDescription.Key).Description.AddTranslation(9, effectDescription.Value);
                 }
-                */
                 /*
                     ╔═════════════════════════════╗
                     ║ +-+ | NPC Translation | +-+ ║
                     ╚═════════════════════════════╝
                 */
-                /*
-                try
+
+                //NPCName Dictionary Loading:
+                foreach (var npcName in npcNameDictionary.NPCName)
                 {
-                    foreach (var npcName in npcNameDictionary.NPCName)
-                    {
-                        Calamity.GetNPC(npcName.Key).DisplayName.AddTranslation(GameCulture.CultureName.Polish, npcName.Value);
-                    }
-                } catch (Exception e)
-                {
-                    Logger.Error("CalamityPL-NPCNameError: " + e.ToString());
+                    Calamity.Find<ModNPC>(npcName.Key).DisplayName.AddTranslation(9, npcName.Value);
                 }
-                */
             }
         }
     }
