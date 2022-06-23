@@ -8,24 +8,6 @@ namespace CalamityPL
 {
     public class CalamityPL : Mod
     {
-        /*
-        public override void Load()
-        {
-            if (ModLoader.GetMod("CalamityMod") != null)
-            {
-                Mod Calamity = ModLoader.GetMod("CalamityMod");
-                if (Calamity != null)
-                {
-                    //AddMusicBox(GetSoundSlot(SoundType.Music, "Sounds/Music/PolishAF"), ItemType("CalamityPLMusicBox"), TileType("CalamityPLMusicBox"));
-                    Main.versionNumber = Main.versionNumber + "\n" + "Tłumaczenie Calamity Moda tworzone z ❤\nprzez Kamelowego, Alvaro De Blanco\ni polskie community Terrarii!\nMasz pytania odnośnie tłumaczenia?\nDołącz na nasz serwer Discord!\n(przycisk pod opisem modyfikacji)";
-                }
-            }
-        }
-        public override void Unload()
-        {
-            Main.versionNumber = "Terraria v1.3.5.3";
-        }
-        */
         public CalamityPL()
         {
 
