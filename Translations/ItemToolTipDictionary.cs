@@ -6,10 +6,6 @@ namespace CalamityPL
     {
         public Dictionary<string, string> ItemToolTip { get; } = new Dictionary<string, string>()
         {
-            /* 
-                Szybki tutorial tłumaczenia dla nietechnicznych:
-                        { "ID", "Tłumaczenie" }, 
-            */
             { "Abaddon", "Redukuje otrzymywane obrażenia spowodowane przez Siarczyste Płomienie, a także nadaje niewrażliwość na efekty Palącej Lawy" },
             /* Tłumaczenia tooltipów na razie są wyłączone. Trzeba poprawić wartości, które się zmieniły po update Calamity.
                                 ======================================================
