@@ -1,7 +1,7 @@
-[c/FF2146:Polskie tłumaczenie Calamity Moda]
+Polskie tłumaczenie Calamity Moda
 
 v2.2.1 - "Jest 40 stopniowy upał ale dodajmy pół tysiąca tłumaczeń" Update
-[c/FF7E47:Ponad 500 nowych tłumaczeń:]
+Ponad 500 nowych tłumaczeń:
 - Wszystkie bronie z kategorii Melee
 - Wszystkie bronie z kategorii Ranged
 - Wszystkie bronie z kategorii Magic
@@ -42,7 +42,7 @@ v2.2.1
 - Aktualizacja opisu
 
 v2.2.0 - "Jest 40 stopniowy upał ale dodajmy pół tysiąca tłumaczeń" Update
-[c/FF7E47:Ponad 500 nowych tłumaczeń:]
+Ponad 500 nowych tłumaczeń:
 - Wszystkie bronie z kategorii Melee
 - Wszystkie bronie z kategorii Ranged
 - Wszystkie bronie z kategorii Magic
@@ -54,7 +54,7 @@ v2.1.1
 Mały update, zmiana ikony na nowy standard Calamity.
 
 v2.1.0
-[c/00AEFF:Ponad 250 nowych tłumaczeń, a w tym:]
+Ponad 250 nowych tłumaczeń, a w tym:
 - Wszystkie zbroje dostępne w Calamity
 - Ostatnie Akcesoria, które nie miały jeszcze tłumaczeń
 - Przedmioty związane z Draedonem
