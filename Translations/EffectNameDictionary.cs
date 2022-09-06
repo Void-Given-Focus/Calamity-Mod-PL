@@ -30,6 +30,41 @@ namespace CalamityPL
             {"VodkaBuff", "Wódka"},
             {"WhiskeyBuff", "Whisky"},
             {"WhiteWineBuff", "Wino Białe"},
+            {"Withered", "Rozpad"},
+            {"AstralInfectionDebuff", "Gwiezdna Infekcja"},
+            {"BanishingFire", "Ogień Wygnania"},
+            {"BrimstoneFlames", "Ogień Piekielny"},
+            {"BurningBlood", "Płonąca Krew"},
+            {"CrushDepth", "Ciśnienie z Głębin"},
+            {"DemonFlames", "Demoniczne Płomienie"},
+            {"Dragonfire", "Smoczy Ogień"},
+            {"GodSlayerInferno", "Boska Kara"},
+            {"HeavyBleeding", "Krwawienie"},
+            {"HolyFlames", "Święte Płomienie"},
+            {"HolyInferno", "Święta Kara"},
+            {"ManaBurn", "Przeładowanie Maną"},
+            {"Nightwither", "Północ"},
+            {"Plague", "Plaga"},
+            {"SagePoison", "Magiczna trucizna"},
+            {"SearingLava", "Rozgrzana Lava"},
+            {"Shadowflame", "Cienisty Ogień"},
+            {"ShellfishClaps", "Uścisk Małża"},
+            {"Shred", "Rozdarcię"},
+            {"SnapClamDebuff", "x"},
+            {"SulphuricPoisoning", "Zatrucię Siarką"},
+            {"Vaporfied", ""},
+            {"VulnerabilityHex", "Klątwa Wrażliwości"},
+            {"WeakBrimstoneFlames", "Gasnący Ogień Piekielny"},
+            {"AlicornBuff", "Alicorn"},
+            {"AndromedaBuff", "Andromeda"},
+            {"AndromedaSmallBuff", "Andromeda"},
+          
+            {"BrimroseMount", "Piekielny Tron"},
+            
+            
+            
+          
+            
         };
     }
 }
