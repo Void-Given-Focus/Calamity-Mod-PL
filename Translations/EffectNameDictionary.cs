@@ -52,14 +52,30 @@ namespace CalamityPL
             {"Shred", "Rozdarcię"},
             {"SnapClamDebuff", "x"},
             {"SulphuricPoisoning", "Zatrucię Siarką"},
-            {"Vaporfied", ""},
+            {"Vaporfied", "Zagazowany"},
             {"VulnerabilityHex", "Klątwa Wrażliwości"},
             {"WeakBrimstoneFlames", "Gasnący Ogień Piekielny"},
             {"AlicornBuff", "Alicorn"},
             {"AndromedaBuff", "Andromeda"},
             {"AndromedaSmallBuff", "Andromeda"},
-          
+            {"BumbledogeMount", "Smokopieseł"},
             {"BrimroseMount", "Piekielny Tron"},
+            {"DraedonGamerChairBuff", "Fotel Exo"},
+            {"GazeOfCrysthamyrBuff", "Spojrzenie Crysthamyra"},
+            {"MarniteLiftBuff", "Marnitowa Platforma"},
+            {"OnyxExcavatorBuff", "Onyxowa Maszyna Górnicza"},
+            {"RimehoundBuff", "Mroźny Ogar"},
+            {"SquishyBeanBuff", ""},
+            {"TheCartofGodsBuff", "Boski wózek górniczny"},
+            {"ID", "x"},
+            {"ID", "x"},
+            {"ID", "x"},
+            {"ID", "x"},
+            {"ID", "x"},
+            {"ID", "x"},
+            {"ID", "x"},
+            {"ID", "x"},
+            
             
             
             
